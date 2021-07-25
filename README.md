@@ -1,0 +1,2 @@
+# salarycalc
+a wechat program
